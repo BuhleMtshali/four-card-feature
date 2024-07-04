@@ -3,3 +3,17 @@ body {
   font-family: "Poppins", sans-serif;
   text-align: center;
 }
+.light {
+  color: hsl(229, 6%, 66%);
+  font-weight: 300;
+  margin-bottom: 0;
+}
+.dark {
+  color: hsl(234, 12%, 34%);
+  margin-top: 0;
+  font-weight: 600;
+}
+.text-top {
+  color: hsl(229, 6%, 66%);
+  font-weight: 400;
+}
